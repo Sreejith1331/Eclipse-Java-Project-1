@@ -1,0 +1,9 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 1656-1188
+
+ Directory of F:\JavaFolder
+
+08-01-2024  14:27    <DIR>          .
+08-01-2024  14:27                 0 text1.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  67,328,970,752 bytes free
